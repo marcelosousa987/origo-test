@@ -8,7 +8,7 @@ Post -> /clientes/
 
 Put -> /clientes/{id}
 
-Delete -> cliente/deletar/{id}
+Delete -> /cliente/deletar/{id}
 
 Essa API foi consumida tanto em Laravel quanto em PHP puro, o front em PHP puro está em origo_teste_php
 

@@ -2,10 +2,7 @@ Teste Origo em Laravel e PHP puro.
 
 Foi desenvolvido uma API em Laravel com os seguintes endpoints:
 
-Get -> /clientes
-Get -> /planos
-Get -> /planos/cliente/{id}
-Get -> /clientes/{id}
+Get -> /clientes | /planos | /planos/cliente/{id} | /clientes/{id}
 
 Post -> /clientes/
 

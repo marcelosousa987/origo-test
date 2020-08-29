@@ -15,6 +15,8 @@ Essa API foi consumida tanto em Laravel quanto em PHP puro, o front em PHP puro 
 Em Laravel, utilizei o Guzzle e em PHP puro o Curl para consumir a API e realizar as requisições.
 Para a parte visual, foi usado o bootstrap.
 
+Todas as regras de negócio foram implementadas nas próprias API.
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>

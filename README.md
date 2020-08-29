@@ -1,3 +1,21 @@
+Teste Origo em Laravel e PHP puro.
+
+Foi desenvolvido uma API em Laravel com os seguintes endpoints:
+
+Get -> /clientes
+Get -> /planos
+Get -> /planos/cliente/{id}
+Get -> /clientes/{id}
+
+Post -> /clientes/
+
+Put -> /clientes/{id}
+
+Delete -> cliente/deletar/{id}
+
+Essa API foi consumida tanto em Laravel quanto em PHP puro, o front em PHP puro está em origo_teste_php
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">

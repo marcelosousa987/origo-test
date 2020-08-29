@@ -10,7 +10,9 @@ Put -> /clientes/{id}
 
 Delete -> /cliente/deletar/{id}
 
-Essa API foi consumida tanto em Laravel quanto em PHP puro, o front em PHP puro está em origo_teste_php. Em Laravel foi usado o Guzzle e em PHP puro o Curl.
+Essa API foi consumida tanto em Laravel quanto em PHP puro, o front em PHP puro está em origo_teste_php. 
+
+Em Laravel, utilizei o Guzzle e em PHP puro o Curl para consumir a API e realizar as requisições.
 Para a parte visual, foi usado o bootstrap.
 
 <p align="center">
